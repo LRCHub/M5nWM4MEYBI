@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "The Death Song",
+  "base_artist": "Marilyn Manson",
+  "createdAt": "2026-03-16T04:16:34.566451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Death Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/01_The_Death_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Death Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/02_The_Death_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Death Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/03_The_Death_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Death Song",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/04_The_Death_Song_Marilyn_Manson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Death Song",
+      "artist": "Marylin Manson",
+      "has_synced": true,
+      "path": "select/05_The_Death_Song_Marylin_Manson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Death Song",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/pl_01_The_Death_Song_Marilyn_Manson.txt"
+    }
+  ]
+}
